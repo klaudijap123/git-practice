@@ -1,3 +1,3 @@
 # git-practice
 
-Learning branching and pull requests.
+branching and pull requests.
